@@ -2,6 +2,7 @@
 
 Bem-vindo(a) ao guia básico de Git! Este README oferece uma introdução ao uso do Git, um sistema de controle de versão distribuído amplamente utilizado no desenvolvimento de software. Ele permite que você gerencie e registre eficientemente as alterações feitas em seus projetos.
 
+
 ## 📝 Instalação
 
 Para começar a usar o Git, siga os passos abaixo para instalá-lo no seu sistema:
